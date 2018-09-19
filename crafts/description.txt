@@ -1,0 +1,4 @@
+Allows additional crafts.
+Provides an alternative Red Dye.
+Provides for 'charcoal' by allowing crafting of Coal Lump in furnace.
+Provides a non-toxic use of Red Mushrooms.
